@@ -1,0 +1,21 @@
+GitHub Test Upload File
+========================
+
+Repository: test-_repo
+Purpose: GitHub upload / commit / push test
+Created: 2026-06-19
+
+This is a plain text file for testing GitHub file upload and version control workflows.
+
+Test checklist:
+- [ ] File created locally
+- [ ] git add
+- [ ] git commit
+- [ ] git push
+- [ ] Verify file on GitHub web UI
+- [ ] git pull (from another clone or machine)
+
+Sample content line for diff testing:
+Hello, GitHub! This line can be edited to test commit history.
+
+End of test file.
