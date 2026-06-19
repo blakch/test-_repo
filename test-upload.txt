@@ -1,0 +1,16 @@
+GitHub 테스트용 업로드 파일
+============================
+
+저장소: test-_repo
+용도: commit, push, pull 테스트
+
+이 파일은 GitHub 업로드 및 버전 관리 테스트를 위해 작성되었습니다.
+
+테스트 항목:
+- git add
+- git commit
+- git push
+- git pull
+
+작성일: 2026-06-19
+메모: YI ENERGY SOLUTION 테스트 repository
