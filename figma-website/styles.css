@@ -1,0 +1,202 @@
+/* Figma frame: Start here (60:4554) — 1200×1200 */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: #0b0d18;
+  font-family: "Poppins", system-ui, sans-serif;
+}
+
+.start-here {
+  position: relative;
+  width: min(1200px, 100%);
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: rgba(21, 25, 52, 0.9);
+  border-radius: 4px;
+}
+
+/* Background glow ellipses */
+
+.start-here__bg {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.glow {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(40px);
+}
+
+.glow--blue {
+  background: radial-gradient(circle, rgba(24, 180, 244, 0.7) 0%, rgba(46, 55, 114, 0) 63%);
+}
+
+.glow--purple {
+  background: radial-gradient(circle, rgba(172, 127, 244, 0.5) 0%, rgba(21, 25, 52, 0) 70%);
+}
+
+.glow--1 {
+  width: 55%;
+  height: 40%;
+  top: -5%;
+  left: 10%;
+  opacity: 0.5;
+}
+
+.glow--2 {
+  width: 50%;
+  height: 35%;
+  bottom: 5%;
+  right: -10%;
+  opacity: 0.3;
+}
+
+.glow--3 {
+  width: 45%;
+  height: 38%;
+  top: 20%;
+  right: -5%;
+  opacity: 0.45;
+}
+
+.glow--4 {
+  width: 40%;
+  height: 32%;
+  bottom: 15%;
+  left: -8%;
+  opacity: 0.35;
+}
+
+/* Hero image (visual-copilot 1) */
+
+.start-here__hero {
+  position: absolute;
+  left: 0;
+  top: 1.83%;
+  width: 100%;
+  height: 98.25%;
+  object-fit: cover;
+  object-position: center top;
+  pointer-events: none;
+}
+
+/* Logos — top left */
+
+.logos {
+  position: absolute;
+  top: 6.17%;
+  left: 0.25%;
+  width: 32%;
+  height: 19.4%;
+  z-index: 2;
+}
+
+.logo-badge {
+  position: absolute;
+  width: 19.4%;
+  aspect-ratio: 1;
+}
+
+.logo-badge--figma {
+  left: 0;
+  top: 0;
+}
+
+.logo-badge--code {
+  left: 14.4%;
+  top: 0.85%;
+  width: 17.7%;
+}
+
+.logo-badge__glow {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(155, 93, 254, 0.4) 5%, rgba(172, 127, 244, 0) 80%);
+}
+
+.logo-badge__glow--lime {
+  background: radial-gradient(circle, rgba(202, 248, 41, 0.55) 0%, rgba(202, 248, 41, 0) 76%);
+}
+
+.logo-badge__icon {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 32%;
+  height: 32%;
+  display: grid;
+  place-items: center;
+  background: #1d2023;
+  border: 1.5px solid #ac7ef4;
+  border-radius: 7px;
+}
+
+.logo-badge__icon--lime {
+  border-color: rgba(202, 248, 41, 0.8);
+}
+
+.logo-badge__icon svg {
+  width: 70%;
+  height: 70%;
+}
+
+/* Headline text */
+
+.headline {
+  position: absolute;
+  left: 6.17%;
+  top: 26.17%;
+  width: 51.25%;
+  z-index: 2;
+}
+
+.headline__eyebrow {
+  font-size: clamp(24px, 4.17vw, 50px);
+  font-weight: 500;
+  line-height: 1.7;
+  letter-spacing: -1px;
+  color: #caf829;
+  margin-bottom: 0;
+}
+
+.headline__title {
+  font-size: clamp(36px, 6.67vw, 80px);
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -3.2px;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .logos {
+    transform: scale(0.85);
+    transform-origin: top left;
+  }
+
+  .headline {
+    left: 5%;
+    top: 22%;
+    width: 90%;
+  }
+
+  .headline__title {
+    letter-spacing: -1.5px;
+  }
+}

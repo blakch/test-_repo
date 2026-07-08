@@ -1,0 +1,771 @@
+{
+  "selection": {
+    "selectionCount": 1,
+    "selection": [
+      {
+        "id": "60:4554",
+        "name": "Start here",
+        "type": "FRAME",
+        "visible": true
+      }
+    ]
+  },
+  "design": [
+    {
+      "nodeId": "60:4554",
+      "document": {
+        "id": "60:4554",
+        "name": "Start here",
+        "type": "FRAME",
+        "fills": [
+          {
+            "opacity": 0.8999999761581421,
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": "#151934"
+          }
+        ],
+        "absoluteBoundingBox": {
+          "x": 8.528900146484375,
+          "y": 1,
+          "width": 1200,
+          "height": 1200
+        },
+        "children": [
+          {
+            "id": "60:4555",
+            "name": "BG",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": -859.4710693359375,
+              "y": -166,
+              "width": 3432.688720703125,
+              "height": 9101.8466796875
+            },
+            "children": [
+              {
+                "id": "60:4556",
+                "name": "Ellipse 915",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.699999988079071,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.4878840939709457,
+                        "y": 0.4241706135392559
+                      },
+                      {
+                        "x": 0.500000043263717,
+                        "y": 1.0000000153068793
+                      },
+                      {
+                        "x": -0.08794530779667786,
+                        "y": 0.44905691879162934
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#18b4f4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#2e377200",
+                        "position": 0.6322188377380371
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": -373.4710693359375,
+                  "y": 7459.000108017868,
+                  "width": 2205.6888276071404,
+                  "height": 1476.8469598150787
+                }
+              },
+              {
+                "id": "60:4557",
+                "name": "Ellipse 912",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.30000001192092896,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.4878840939709457,
+                        "y": 0.4241706135392559
+                      },
+                      {
+                        "x": 0.500000043263717,
+                        "y": 1.0000000153068793
+                      },
+                      {
+                        "x": -0.08794530779667786,
+                        "y": 0.44905691879162934
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#18b4f4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#2e377200",
+                        "position": 0.6322188377380371
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": -859.4710693359375,
+                  "y": 1898.0001080178681,
+                  "width": 2205.6888276071404,
+                  "height": 1476.8469598150787
+                }
+              },
+              {
+                "id": "60:4558",
+                "name": "Ellipse 909",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.5,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.4878840939709457,
+                        "y": 0.4241706135392559
+                      },
+                      {
+                        "x": 0.500000043263717,
+                        "y": 1.0000000153068793
+                      },
+                      {
+                        "x": -0.08794530779667786,
+                        "y": 0.44905691879162934
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#18b4f4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#2e377200",
+                        "position": 0.6322188377380371
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": -285.9964599609375,
+                  "y": 22.000108017868115,
+                  "width": 2205.6888276071404,
+                  "height": 1476.8469598150787
+                }
+              },
+              {
+                "id": "60:4559",
+                "name": "Ellipse 916",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.5,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.4878840939709457,
+                        "y": 0.4241706135392559
+                      },
+                      {
+                        "x": 0.500000043263717,
+                        "y": 1.0000000153068793
+                      },
+                      {
+                        "x": -0.08794530779667786,
+                        "y": 0.44905691879162934
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#18b4f4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#2e377200",
+                        "position": 0.6322188377380371
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 150.5289306640625,
+                  "y": 746.0001080178681,
+                  "width": 2239.7916799024597,
+                  "height": 1911.8002892415188
+                }
+              },
+              {
+                "id": "60:4560",
+                "name": "Ellipse 899",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.6000000238418579,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.5000000000000004,
+                        "y": 0.4999999999999997
+                      },
+                      {
+                        "x": 0.5000000000000007,
+                        "y": 0.9999999999999997
+                      },
+                      {
+                        "x": 3.3306690738754696e-16,
+                        "y": 0.49999999999999983
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#ac7ff4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#15193400",
+                        "position": 1
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": -176.4710693359375,
+                  "y": 501,
+                  "width": 1684.1025390625,
+                  "height": 821
+                }
+              },
+              {
+                "id": "60:4561",
+                "name": "Ellipse 911",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.6000000238418579,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.5000000000000004,
+                        "y": 0.4999999999999997
+                      },
+                      {
+                        "x": 0.5000000000000007,
+                        "y": 0.9999999999999997
+                      },
+                      {
+                        "x": 3.3306690738754696e-16,
+                        "y": 0.49999999999999983
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#ac7ff4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#15193400",
+                        "position": 1
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 338.5289306640625,
+                  "y": 2600,
+                  "width": 1684.1025390625,
+                  "height": 821
+                }
+              },
+              {
+                "id": "60:4562",
+                "name": "Ellipse 913",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.6000000238418579,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.5000000000000004,
+                        "y": 0.4999999999999997
+                      },
+                      {
+                        "x": 0.5000000000000007,
+                        "y": 0.9999999999999997
+                      },
+                      {
+                        "x": 3.3306690738754696e-16,
+                        "y": 0.49999999999999983
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#ac7ff4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#15193400",
+                        "position": 1
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": -423.4710693359375,
+                  "y": 4084,
+                  "width": 2125,
+                  "height": 1035.9375
+                }
+              },
+              {
+                "id": "60:4564",
+                "name": "Ellipse 912",
+                "type": "ELLIPSE",
+                "fills": [
+                  {
+                    "opacity": 0.5,
+                    "blendMode": "NORMAL",
+                    "type": "GRADIENT_RADIAL",
+                    "gradientHandlePositions": [
+                      {
+                        "x": 0.4878840939709457,
+                        "y": 0.4241706135392559
+                      },
+                      {
+                        "x": 0.500000043263717,
+                        "y": 1.0000000153068793
+                      },
+                      {
+                        "x": -0.08794530779667786,
+                        "y": 0.44905691879162934
+                      }
+                    ],
+                    "gradientStops": [
+                      {
+                        "color": "#18b4f4",
+                        "position": 0
+                      },
+                      {
+                        "color": "#2e377200",
+                        "position": 0.6322188377380371
+                      }
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 367.5289306640625,
+                  "y": 4927.000108017868,
+                  "width": 2205.6888276071404,
+                  "height": 1476.8469598150787
+                }
+              }
+            ]
+          },
+          {
+            "id": "60:4563",
+            "name": "Rectangle 1238",
+            "type": "RECTANGLE",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": "#000000"
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": -6.4710693359375,
+              "y": -166,
+              "width": 1470,
+              "height": 1799
+            }
+          },
+          {
+            "id": "60:5602",
+            "name": "visual-copilot 1",
+            "type": "RECTANGLE",
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "IMAGE",
+                "scaleMode": "FILL"
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 9,
+              "y": 23,
+              "width": 1200.5,
+              "height": 1179
+            }
+          },
+          {
+            "id": "60:5480",
+            "name": "Start here",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 82.52890014648438,
+              "y": 315,
+              "width": 615,
+              "height": 278
+            },
+            "children": [
+              {
+                "id": "60:5481",
+                "name": "text",
+                "type": "FRAME",
+                "absoluteBoundingBox": {
+                  "x": 82.52890014648438,
+                  "y": 315,
+                  "width": 615,
+                  "height": 278
+                },
+                "children": [
+                  {
+                    "id": "60:5482",
+                    "name": "Start here",
+                    "type": "TEXT",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": "#caf829"
+                      }
+                    ],
+                    "absoluteBoundingBox": {
+                      "x": 82.52890014648438,
+                      "y": 315,
+                      "width": 558.6192016601562,
+                      "height": 86
+                    },
+                    "characters": "Start here",
+                    "style": {
+                      "fontFamily": "Poppins",
+                      "fontStyle": "Medium",
+                      "fontWeight": 500,
+                      "fontSize": 50,
+                      "textAlignHorizontal": "LEFT",
+                      "letterSpacing": -1,
+                      "lineHeightPx": 85.17987060546875
+                    }
+                  },
+                  {
+                    "id": "60:5483",
+                    "name": "Using Figma to Code Plugin",
+                    "type": "TEXT",
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": "#ffffff"
+                      }
+                    ],
+                    "absoluteBoundingBox": {
+                      "x": 82.52890014648438,
+                      "y": 401,
+                      "width": 615,
+                      "height": 192
+                    },
+                    "characters": "Using Figma to Code Plugin",
+                    "style": {
+                      "fontFamily": "Poppins",
+                      "fontStyle": "Regular",
+                      "fontWeight": 400,
+                      "fontSize": 80,
+                      "textAlignHorizontal": "LEFT",
+                      "letterSpacing": -3.2,
+                      "lineHeightPx": 96
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "166:544",
+            "name": "Logos",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 11.528900146484375,
+              "y": 76,
+              "width": 385,
+              "height": 232.73654174804688
+            },
+            "children": [
+              {
+                "id": "60:5485",
+                "name": "Group 28853",
+                "type": "GROUP",
+                "absoluteBoundingBox": {
+                  "x": 11.528900146484375,
+                  "y": 76,
+                  "width": 232.73654174804688,
+                  "height": 232.73654174804688
+                },
+                "children": [
+                  {
+                    "id": "60:5486",
+                    "name": "Ellipse 933",
+                    "type": "ELLIPSE",
+                    "fills": [
+                      {
+                        "opacity": 0.4000000059604645,
+                        "blendMode": "NORMAL",
+                        "type": "GRADIENT_RADIAL",
+                        "gradientHandlePositions": [
+                          {
+                            "x": 0.5,
+                            "y": 0.49999999999999994
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 0.9999999999999999
+                          },
+                          {
+                            "x": 0,
+                            "y": 0.5
+                          }
+                        ],
+                        "gradientStops": [
+                          {
+                            "color": "#9b5dfe",
+                            "position": 0.0533650703728199
+                          },
+                          {
+                            "color": "#ac7ff400",
+                            "position": 0.8042381405830383
+                          }
+                        ]
+                      }
+                    ],
+                    "absoluteBoundingBox": {
+                      "x": 11.528900146484375,
+                      "y": 76,
+                      "width": 232.73654174804688,
+                      "height": 232.73654174804688
+                    }
+                  },
+                  {
+                    "id": "60:5487",
+                    "name": "Group 28851",
+                    "type": "GROUP",
+                    "absoluteBoundingBox": {
+                      "x": 90.51957702636719,
+                      "y": 151.17880249023438,
+                      "width": 74.96700286865234,
+                      "height": 74.96700286865234
+                    },
+                    "children": [
+                      {
+                        "id": "60:5488",
+                        "name": "Rectangle 5850",
+                        "type": "RECTANGLE",
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": "#1d2023"
+                          }
+                        ],
+                        "strokes": [
+                          {
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": "#ac7ef4"
+                          }
+                        ],
+                        "cornerRadius": 6.776679039001465,
+                        "absoluteBoundingBox": {
+                          "x": 90.51957702636719,
+                          "y": 151.17880249023438,
+                          "width": 74.96700286865234,
+                          "height": 74.96700286865234
+                        }
+                      },
+                      {
+                        "id": "60:5489",
+                        "name": "Group 28847",
+                        "type": "GROUP",
+                        "absoluteBoundingBox": {
+                          "x": 108.94355010986328,
+                          "y": 167.0616455078125,
+                          "width": 37.95158004760742,
+                          "height": 43.395015716552734
+                        },
+                        "children": [
+                          {
+                            "id": "60:5490",
+                            "name": "Group 877",
+                            "type": "GROUP",
+                            "absoluteBoundingBox": {
+                              "x": 108.94355010986328,
+                              "y": 167.0616455078125,
+                              "width": 37.95158004760742,
+                              "height": 43.395015716552734
+                            },
+                            "children": [
+                              {
+                                "id": "60:5491",
+                                "name": "Group 17",
+                                "type": "GROUP",
+                                "absoluteBoundingBox": {
+                                  "x": 108.94355010986328,
+                                  "y": 167.0616455078125,
+                                  "width": 37.95158004760742,
+                                  "height": 43.395015716552734
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60:5495",
+                "name": "Group 28854",
+                "type": "GROUP",
+                "absoluteBoundingBox": {
+                  "x": 184.1223907470703,
+                  "y": 86.1650619506836,
+                  "width": 212.40650939941406,
+                  "height": 212.40650939941406
+                },
+                "children": [
+                  {
+                    "id": "60:5496",
+                    "name": "Ellipse 934",
+                    "type": "ELLIPSE",
+                    "fills": [
+                      {
+                        "opacity": 0.4000000059604645,
+                        "blendMode": "NORMAL",
+                        "type": "GRADIENT_RADIAL",
+                        "gradientHandlePositions": [
+                          {
+                            "x": 0.5,
+                            "y": 0.49999999999999994
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 0.9999999999999999
+                          },
+                          {
+                            "x": 0,
+                            "y": 0.5
+                          }
+                        ],
+                        "gradientStops": [
+                          {
+                            "color": "#caf829",
+                            "position": 0
+                          },
+                          {
+                            "color": "#caf82900",
+                            "position": 0.7616984248161316
+                          }
+                        ]
+                      }
+                    ],
+                    "absoluteBoundingBox": {
+                      "x": 184.1223907470703,
+                      "y": 86.1650619506836,
+                      "width": 212.40650939941406,
+                      "height": 212.40650939941406
+                    }
+                  },
+                  {
+                    "id": "60:5497",
+                    "name": "Group 28852",
+                    "type": "GROUP",
+                    "absoluteBoundingBox": {
+                      "x": 252.9480438232422,
+                      "y": 151.17880249023438,
+                      "width": 74.96700286865234,
+                      "height": 74.96700286865234
+                    },
+                    "children": [
+                      {
+                        "id": "60:5498",
+                        "name": "Rectangle 5851",
+                        "type": "RECTANGLE",
+                        "fills": [
+                          {
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": "#1d2023"
+                          }
+                        ],
+                        "strokes": [
+                          {
+                            "opacity": 0.800000011920929,
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": "#caf829"
+                          }
+                        ],
+                        "cornerRadius": 6.776679039001465,
+                        "absoluteBoundingBox": {
+                          "x": 252.9480438232422,
+                          "y": 151.17880249023438,
+                          "width": 74.96700286865234,
+                          "height": 74.96700286865234
+                        }
+                      },
+                      {
+                        "id": "60:5499",
+                        "name": "Group 28848",
+                        "type": "GROUP",
+                        "absoluteBoundingBox": {
+                          "x": 277.5135498046875,
+                          "y": 167.48519897460938,
+                          "width": 28.753082275390625,
+                          "height": 43.054874420166016
+                        },
+                        "children": [
+                          {
+                            "id": "60:5500",
+                            "name": "Group 26888",
+                            "type": "GROUP",
+                            "absoluteBoundingBox": {
+                              "x": 277.5135498046875,
+                              "y": 167.48519897460938,
+                              "width": 28.753082275390625,
+                              "height": 43.054874420166016
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
